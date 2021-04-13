@@ -270,4 +270,4 @@ client.on("message", async message => {
 
 require("./server")();
 
-client.login("ODMxMTg3MDk5MDIwODIwNTUz.YHRlTw.uTy2GllGqfRDVaDUt3Lphs2zIs8");
+client.login("YOUR_TOKEN");
